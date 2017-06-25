@@ -32,4 +32,5 @@
   - Understandable code.
    
    Please don’t hesitate to reach out to me ( <varaprasadmaruboina@gmail.com> ) if you have queries/feedback/suggestions.
- 
+   **SCREENSHOTS :**
+   ![Screen shot](https://raw.githubusercontent.com/username/projectname/branch/path/to/screen1.jpg)
